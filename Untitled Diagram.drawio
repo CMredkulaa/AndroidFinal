@@ -1,1 +1,25 @@
-<mxfile host="app.diagrams.net" modified="2021-11-16T07:54:51.328Z" agent="5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 Safari/537.36" version="15.7.4" etag="UARnO0AhXfAV3CvXl7TF" type="github"><diagram id="cOYb0G6vYGDSaXm8N8wk">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2021-11-18T03:51:45.426Z" agent="5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 Safari/537.36" etag="I-Nse69zBPXE0HXt7j1h" version="15.7.4" type="github">
+  <diagram id="cOYb0G6vYGDSaXm8N8wk" name="Page-1">
+    <mxGraphModel dx="1344" dy="663" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="IFz55OySnL7Z1_ggOreq-1" value="浏览器" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="100" y="250" width="120" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="IFz55OySnL7Z1_ggOreq-2" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="353.5" y="230" width="120" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="IFz55OySnL7Z1_ggOreq-3" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="600" y="260" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="IFz55OySnL7Z1_ggOreq-4" value="" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="100" y="140" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="IFz55OySnL7Z1_ggOreq-5" value="" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="100" y="370" width="120" height="80" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
